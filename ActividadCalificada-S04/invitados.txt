@@ -1,0 +1,4 @@
+frank Li ;95959552;Masculino
+Frank Li Figueroa Rodriguez;926502854;Femenino;Jan/2004;Calle San Pedro
+Carlos;915611615651;Masculino;Jan/2004;Rafagas
+Diesel Aponte;96165252;Masculino;Mar/2005;Usil
